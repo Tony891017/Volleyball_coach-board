@@ -1,4 +1,4 @@
-{"teams":[
+[
     {"name":"teamA", "players":[
         {"name":"Setter1", "num":1}, {"name":"Outside1", "num":2}, {"name":"Middle1", "num":3}, {"name":"Opposite1", "num":4},
         {"name":"Outside2", "num":5}, {"name":"Middle2", "num":6}, {"name":"Libero1", "num":7}]},
@@ -8,4 +8,4 @@
     {"name":"teamC", "players":[
         {"name":"Setter1", "num":1}, {"name":"Outside1", "num":2}, {"name":"Middle1", "num":3}, {"name":"Opposite1", "num":4},
         {"name":"Outside2", "num":5}, {"name":"Middle2", "num":6}, {"name":"Libero1", "num":7}]}
-]}
+]
